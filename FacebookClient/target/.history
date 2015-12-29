@@ -1,0 +1,10 @@
+compile
+run 8 gossip line
+run 8 line gossip
+run 8 full gossip
+run 100 full gossip
+run 100 3D gossip
+compile
+run
+compile
+run
